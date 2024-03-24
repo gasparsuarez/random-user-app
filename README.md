@@ -5,15 +5,15 @@
 # Instalación
 
 - Clone repository
- 
+- Run Commands in terminal :\
 `flutter pub get`\
 `flutter run`
 
 # Technologies  
-
  - Flutter
  - Dart
  - Clean Architecture
  - Cubit + Freezed [State Management] 
  - Dio [Network Client]
  - Get It [Dependency Injection / Service Locator]
+ - API used `https://randomuser.me/api/` 
