@@ -2,7 +2,7 @@
 
  Basic application where random user data is obtained and other differentes functionalities are obtained.
 
-# Instalación
+# Install
 
 - Clone repository
 - Run Commands in terminal :\
@@ -17,3 +17,4 @@
  - Dio [Network Client]
  - Get It [Dependency Injection / Service Locator]
  - API used `https://randomuser.me/api/` 
+ - Dartz Either for functional programming
