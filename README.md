@@ -18,3 +18,5 @@
  - Get It [Dependency Injection / Service Locator]
  - API used `https://randomuser.me/api/` 
  - Dartz Either for functional programming
+
+ <img src="assets/simulator_screenshot_63604474-5FE8-4C10-A10A-63A49D4E4693.png" width="250">
